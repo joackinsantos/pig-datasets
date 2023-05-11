@@ -1,4 +1,4 @@
-path: ./datasets/small-pig-dataset
+path: ../datasets/small-pig-dataset
 train: ../train/images
 val: ../valid/images
 test: ../test/images
