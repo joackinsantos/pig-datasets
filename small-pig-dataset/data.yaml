@@ -1,0 +1,14 @@
+path: ./datasets/small-pig-dataset
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 2
+names: ['Head', 'Rear']
+
+roboflow:
+  workspace: pigdataset
+  project: pig-parts
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/pigdataset/pig-parts/dataset/1
