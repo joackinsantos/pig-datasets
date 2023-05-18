@@ -1,8 +1,8 @@
 
-pig-dataset - v2 2023-05-17 7:17pm
+pig-dataset - v3 2023-05-18 11:37pm
 ==============================
 
-This dataset was exported via roboflow.com on May 17, 2023 at 12:48 PM GMT
+This dataset was exported via roboflow.com on May 18, 2023 at 3:42 PM GMT
 
 Roboflow is an end-to-end computer vision platform that helps you
 * collaborate with your team on computer vision projects
@@ -17,7 +17,7 @@ visit https://github.com/roboflow/notebooks
 
 To find over 100k other datasets and pre-trained models, visit https://universe.roboflow.com
 
-The dataset includes 6675 images.
+The dataset includes 7233 images.
 Pig-heads-and-rears are annotated in YOLO v5 PyTorch format.
 
 The following pre-processing was applied to each image:

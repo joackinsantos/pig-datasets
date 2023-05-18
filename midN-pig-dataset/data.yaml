@@ -9,6 +9,6 @@ names: ['Head', 'Rear']
 roboflow:
   workspace: pigdataset
   project: pig-dataset-giiif
-  version: 2
+  version: 3
   license: CC BY 4.0
-  url: https://universe.roboflow.com/pigdataset/pig-dataset-giiif/dataset/2
+  url: https://universe.roboflow.com/pigdataset/pig-dataset-giiif/dataset/3
